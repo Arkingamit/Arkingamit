@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **21bce072@nirmauni.ac.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WXLDim-Z-BDZO7aYuejijXIJDsSz7Y_b/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1xAb6p0mFVdKZcciVhHfRrALFibke5AYQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
