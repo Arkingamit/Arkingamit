@@ -41,15 +41,4 @@
 
 </div>
 
----
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/Arkingamit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arkingamit&show_icons=true&theme=tokyonight&line_height=27" alt="Arkin's Stats" />
-  </a>
-  <a href="https://github.com/Arkingamit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arkingamit&hide=html,css&theme=tokyonight&layout=compact" alt="Top Languages" />
-  </a>
-</div>
