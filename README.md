@@ -12,7 +12,7 @@
     <a href="mailto:21bce072@nirmauni.ac.in">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://drive.google.com/file/d/12KpmLsx2sJ_GkmeO8kaGS95ByUH0ev3B/view?usp=sharing">
+    <a href="https://drive.google.com/file/d/1_VWQuaXStAyKK77r_uhGzPrilQUYewnb/view?usp=sharing">
       <img src="https://img.shields.io/badge/Resume-FF9900?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
     </a>
   </p>
